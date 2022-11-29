@@ -6,22 +6,8 @@
     "feed_url": "https://hatowish.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Akatan"
+        "name": "Hoàng Tân"
     },
     "items": [
-        {
-            "id": "https://hatowish.com/demo-publii.html",
-            "url": "https://hatowish.com/demo-publii.html",
-            "title": "Demo Publii",
-            "summary": "Xin chào mọi người đến với page Hato Wish",
-            "content_html": "\n  <p>\n    Xin chào mọi người đến với page Hato Wish\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://hatowish.com/media/posts/1/Avatar-hatowish.png\" height=\"320\" width=\"320\" alt=\"\"  sizes=\"100vw\" srcset=\"https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-xs.png 300w ,https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-sm.png 480w ,https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-md.png 768w ,https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-lg.png 1024w ,https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-xl.png 1360w ,https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-2xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "Akatan"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-11-29T13:10:35+07:00",
-            "date_modified": "2022-11-29T13:10:35+07:00"
-        }
     ]
 }

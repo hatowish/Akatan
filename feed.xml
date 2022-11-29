@@ -1,44 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom">
     <title>Hato Wish</title>
     <link href="https://hatowish.com/feed.xml" rel="self" />
     <link href="https://hatowish.com" />
-    <updated>2022-11-29T13:10:35+07:00</updated>
+    <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
-        <name>Akatan</name>
+        <name>Hoàng Tân</name>
     </author>
     <id>https://hatowish.com</id>
 
-    <entry>
-        <title>Demo Publii</title>
-        <author>
-            <name>Akatan</name>
-        </author>
-        <link href="https://hatowish.com/demo-publii.html"/>
-        <id>https://hatowish.com/demo-publii.html</id>
-
-        <updated>2022-11-29T13:10:35+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Xin chào mọi người đến với page Hato Wish
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Xin chào mọi người đến với page Hato Wish
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://hatowish.com/media/posts/1/Avatar-hatowish.png" height="320" width="320" alt=""  sizes="100vw" srcset="https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-xs.png 300w ,https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-sm.png 480w ,https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-md.png 768w ,https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-lg.png 1024w ,https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-xl.png 1360w ,https://hatowish.com/media/posts/1/responsive/Avatar-hatowish-2xl.png 1600w">
-      
-    </figure>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
