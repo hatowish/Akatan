@@ -9,5 +9,19 @@
         "name": "Hoàng Tân"
     },
     "items": [
+        {
+            "id": "https://hatowish.com/demo-1.html",
+            "url": "https://hatowish.com/demo-1.html",
+            "title": "Demo 1",
+            "summary": "Xin chào mọi người đến với Hato Wish",
+            "content_html": "\n  <p>\n    Xin chào mọi người đến với Hato Wish\n  </p>",
+            "author": {
+                "name": "Hoàng Tân"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-29T17:04:48+07:00",
+            "date_modified": "2022-11-29T17:04:48+07:00"
+        }
     ]
 }

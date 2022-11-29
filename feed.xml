@@ -3,10 +3,33 @@
     <title>Hato Wish</title>
     <link href="https://hatowish.com/feed.xml" rel="self" />
     <link href="https://hatowish.com" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2022-11-29T17:04:48+07:00</updated>
     <author>
         <name>Hoàng Tân</name>
     </author>
     <id>https://hatowish.com</id>
 
+    <entry>
+        <title>Demo 1</title>
+        <author>
+            <name>Hoàng Tân</name>
+        </author>
+        <link href="https://hatowish.com/demo-1.html"/>
+        <id>https://hatowish.com/demo-1.html</id>
+
+        <updated>2022-11-29T17:04:48+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Xin chào mọi người đến với Hato Wish
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Xin chào mọi người đến với Hato Wish
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
