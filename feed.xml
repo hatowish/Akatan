@@ -41,27 +41,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>Demo 1</title>
-        <author>
-            <name>Hoàng Tân</name>
-        </author>
-        <link href="https://hatowish.com/demo-1/"/>
-        <id>https://hatowish.com/demo-1/</id>
-
-        <updated>2022-11-29T17:04:48+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Xin chào mọi người đến với Hato Wish
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Xin chào mọi người đến với Hato Wish
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
